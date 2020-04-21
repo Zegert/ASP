@@ -1,0 +1,111 @@
+C:\83504\Opdracht1\83504_opdracht5\bin\83504_opdracht5.dll.config
+C:\83504\Opdracht1\83504_opdracht5\bin\83504_opdracht5.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\83504_opdracht5.pdb
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csc.exe
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csc.exe.config
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csc.rsp
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csi.exe
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csi.exe.config
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\csi.rsp
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.Managed.Core.targets
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.AppContext.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Collections.Immutable.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Console.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Compression.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.FileSystem.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Pipes.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Reflection.Metadata.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.AccessControl.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Claims.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Principal.Windows.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.ValueTuple.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XmlDocument.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XPath.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\vbc.exe
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\vbc.exe.config
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\vbc.rsp
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\VBCSCompiler.exe
+C:\83504\Opdracht1\83504_opdracht5\bin\roslyn\VBCSCompiler.exe.config
+C:\83504\Opdracht1\83504_opdracht5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\83504\Opdracht1\83504_opdracht5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\83504\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.csprojAssemblyReference.cache
+C:\83504\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.csproj.CopyComplete
+C:\83504\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.dll
+C:\83504\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.pdb
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\83504_opdracht5.dll.config
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\83504_opdracht5.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\83504_opdracht5.pdb
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csc.exe
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csc.exe.config
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csc.rsp
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csi.exe
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csi.exe.config
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\csi.rsp
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.AppContext.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Collections.Immutable.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Console.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Compression.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.FileSystem.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.IO.Pipes.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Reflection.Metadata.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.AccessControl.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Claims.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Security.Principal.Windows.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.ValueTuple.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XPath.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\vbc.exe
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\vbc.exe.config
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\vbc.rsp
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\VBCSCompiler.exe
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\roslyn\VBCSCompiler.exe.config
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.csprojAssemblyReference.cache
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.csproj.CoreCompileInputs.cache
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.csproj.CopyComplete
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.dll
+D:\School\Back\Periode 3\Opdracht1\83504_opdracht5\obj\Debug\83504_opdracht5.pdb
